@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.danger{background-color: red;}
+.warning{background-color: orange;}
+.success{background-color: green;}
+.yellow{background-color: yellow;}
